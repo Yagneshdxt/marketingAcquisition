@@ -1,0 +1,12 @@
+E:\santech\marketingAcquisition\bin\Debug\marketingAcquisition.exe.config
+E:\santech\marketingAcquisition\bin\Debug\marketingAcquisition.exe
+E:\santech\marketingAcquisition\bin\Debug\marketingAcquisition.pdb
+E:\santech\marketingAcquisition\obj\x86\Debug\marketingAcquisition.AddEditContacts.resources
+E:\santech\marketingAcquisition\obj\x86\Debug\marketingAcquisition.ContactList.resources
+E:\santech\marketingAcquisition\obj\x86\Debug\marketingAcquisition.Form1.resources
+E:\santech\marketingAcquisition\obj\x86\Debug\marketingAcquisition.loginForm.resources
+E:\santech\marketingAcquisition\obj\x86\Debug\marketingAcquisition.Properties.Resources.resources
+E:\santech\marketingAcquisition\obj\x86\Debug\marketingAcquisition.todayUc.resources
+E:\santech\marketingAcquisition\obj\x86\Debug\marketingAcquisition.csproj.GenerateResource.Cache
+E:\santech\marketingAcquisition\obj\x86\Debug\marketingAcquisition.exe
+E:\santech\marketingAcquisition\obj\x86\Debug\marketingAcquisition.pdb
